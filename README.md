@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-blue)
 <!--
 **kxrai/kxrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

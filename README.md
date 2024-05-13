@@ -7,6 +7,9 @@
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![](https://img.shields.io/badge/Code-CSS3-blueviolet)
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
 <!--
 **kxrai/kxrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

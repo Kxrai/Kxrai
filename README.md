@@ -2,6 +2,11 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/Code-Java-brightgreen)
+![](https://img.shields.io/badge/Code-HTML5-orange)
+![](https://img.shields.io/badge/Code-JavaScript-yellow)
+![](https://img.shields.io/badge/Code-CSS3-blueviolet)
+
 <!--
 **kxrai/kxrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

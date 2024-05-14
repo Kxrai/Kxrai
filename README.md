@@ -12,6 +12,8 @@
 ### SQLite App API Development
 I am currently developing an API for a SQLite-based application. This project involves:
 - **Designing an API interface** that allows users to interact seamlessly with the SQLite database.
+This project aims to enhance my skills in backend development and API design, focusing on creating efficient, scalable, and secure web services.
+
   
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxrai&show_icons=true&theme=tokyonight)

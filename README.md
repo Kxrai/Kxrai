@@ -7,6 +7,12 @@
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![](https://img.shields.io/badge/Code-CSS3-blueviolet)
 
+## 🚧 Current Projects
+
+### SQLite App API Development
+I am currently developing an API for a SQLite-based application. This project involves:
+- **Designing an API interface** that allows users to interact seamlessly with the SQLite database.
+  
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxrai&show_icons=true&theme=tokyonight)
 

@@ -17,7 +17,7 @@ This project aims to enhance my skills in backend development and API design, fo
 
 ### MASS Encryptor 🚀🔐
 A web application designed to engage users in cryptography by providing tools to encrypt and decrypt messages using common ciphers. This project involved:
-- **Group Collaboration:** Worked with Alicia Loi, Sienna Markham, Mahjabin Mollah, and Steeve Nchanda.
+- **Group Members:** Alicia Loi, Sienna Markham, Mahjabin Mollah, and Steeve Nchanda.
 - **Purpose:** An educational and fun tool suitable for users ranging from young children to adults, aiming to teach cryptography.
 - **Features:**
   - Encoder and decoder for various ciphers like Caesar Cipher, Keyword Cipher, Atbash Cipher, and Morse Code.

@@ -15,9 +15,9 @@ I am currently developing an API for a SQLite-based application. This project in
 
 This project aims to enhance my skills in backend development and API design, focusing on creating efficient, scalable, and secure web services.
 
-### MASS Encryptor 🚀🔐
+### [MASS Encryptor 🚀🔐](https://mass-encryptor.vercel.app/)
 A web application designed to engage users in cryptography by providing tools to encrypt and decrypt messages using common ciphers. This project involved:
-- **Group Members:** Alicia Loi, Sienna Markham, Mahjabin Mollah, and Steeve Nchanda.
+- **Project Collaborators:** Worked with Alicia Loi, Sienna Markham, Mahjabin Mollah, and Steeve Nchanda.
 - **Purpose:** An educational and fun tool suitable for users ranging from young children to adults, aiming to teach cryptography.
 - **Features:**
   - Encoder and decoder for various ciphers like Caesar Cipher, Keyword Cipher, Atbash Cipher, and Morse Code.

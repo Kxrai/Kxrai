@@ -6,6 +6,7 @@
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-blueviolet)
+![Monkeytype Accuracy](https://img.shields.io/badge/Accuracy-98%25-yellow)
 
 ## 🚧 Current Projects
 

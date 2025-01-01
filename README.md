@@ -10,7 +10,7 @@
 
 ## 🚀 Completed Projects
 
-### [Personal Portfolio v1 🌟💼](https://www.alicialoi.com)
+### [Personal Portfolio V1 🌟💼](https://www.alicialoi.com)
 A modern and interactive portfolio website showcasing my skills, projects, and experience.  
 - **Website:** [www.alicialoi.com](https://www.alicialoi.com)  
 - **Purpose:** A dynamic platform to highlight my technical expertise, creative work, and career achievements.  
